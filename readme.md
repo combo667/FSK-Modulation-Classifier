@@ -43,9 +43,9 @@ The `CapturedSignalsFromVsgForModulationClassification` folder contains `.comple
 - Sampling Rate: 2 MHz
 - Frequency: 1 GHz
 
-## Dataset Location
+## Dataset Location : [Click Here]([URL](https://drive.google.com/drive/folders/18eN73YtTSq2oIr6DMJ8n8drYpesFLfij?usp=sharing))
 1. `rfd900_fsk_csv_files.zip`: This file contains telemetry data of RFD900, which includes 2 FSK signals used for plotting constellation diagrams and model training.
-2. `CapturedSignalsFromVsgForModulationClassification`: This folder contains the VSG-captured signal data used for generating constellation diagrams.
+2. `CapturedSignalsFromVsgForModulationClassification`: This folder contains the VSG-captured signal data used for generating constellation diagrams using Adalm Pluto.
 
 ---
 
