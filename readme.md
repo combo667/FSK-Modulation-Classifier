@@ -44,7 +44,7 @@ The `CapturedSignalsFromVsgForModulationClassification` folder contains `.comple
 - Frequency: 1 GHz
 
 ## Dataset Location
-1. `rfd900_fsk_csv_files.zip`: This file contains telemetry data of RFD900, which includes 2 FSK signals used for plotting constellation diagrams and model training (provided by D. Sai Kiran).
+1. `rfd900_fsk_csv_files.zip`: This file contains telemetry data of RFD900, which includes 2 FSK signals used for plotting constellation diagrams and model training.
 2. `CapturedSignalsFromVsgForModulationClassification`: This folder contains the VSG-captured signal data used for generating constellation diagrams.
 
 ---
